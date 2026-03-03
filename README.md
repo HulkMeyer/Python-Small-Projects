@@ -143,4 +143,4 @@ This repository is licensed under the [MIT License](LICENSE).
 
 ---
 
-> Built and maintained by [Your Name](https://github.com/YOUR_USERNAME)
+> Built and maintained by [Christopher Meyer](https://github.com/HulkMeyer)
