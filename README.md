@@ -35,9 +35,9 @@ python-small-projects/
 │   ├── numpy-pandas-review/
 │   └── merging-with-pandas/
 │
-├── ml-ai/
-│   ├── dtsc670-ml-foundations/
-│   └── intro-ml-notebooks/
+├── ml-ai-experiments/
+│   ├── ML-Regression-Pipeline/
+│   └── ML-Fundamentals/
 │
 └── automation/
     └── python-scripts/
@@ -73,8 +73,8 @@ python-small-projects/
 
 | Project | Description | Key Libraries |
 |---------|-------------|---------------|
-| [dtsc670-ml-foundations](ml-ai/dtsc670-ml-foundations/) | 8 graded ML assignments: linear/polynomial regression, custom transformers, classification metrics from scratch | scikit-learn, pandas, numpy, matplotlib |
-| [intro-ml-notebooks](ml-ai/intro-ml-notebooks/) | Introductory ML: Play Golf binary classifier + Money & Happiness regression | scikit-learn, pandas, numpy |
+| [ML-Fundamentals](ml-ai/dtsc670-ml-foundations/) | 8 graded ML assignments: linear/polynomial regression, custom transformers, classification metrics from scratch | scikit-learn, pandas, numpy, matplotlib |
+| [ML-Fundamentals](ml-ai/intro-ml-notebooks/) | Introductory ML: Play Golf binary classifier + Money & Happiness regression | scikit-learn, pandas, numpy |
 
 ---
 
