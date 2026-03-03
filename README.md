@@ -73,7 +73,7 @@ python-small-projects/
 
 | Project | Description | Key Libraries |
 |---------|-------------|---------------|
-| [ML-Fundamentals](ml-ai/dtsc670-ml-foundations/) | 8 graded ML assignments: linear/polynomial regression, custom transformers, classification metrics from scratch | scikit-learn, pandas, numpy, matplotlib |
+| [ML-Regression-Pipeline](ml-ai/dtsc670-ml-foundations/) | 8 graded ML assignments: linear/polynomial regression, custom transformers, classification metrics from scratch | scikit-learn, pandas, numpy, matplotlib |
 | [ML-Fundamentals](ml-ai/intro-ml-notebooks/) | Introductory ML: Play Golf binary classifier + Money & Happiness regression | scikit-learn, pandas, numpy |
 
 ---
